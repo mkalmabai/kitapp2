@@ -1,0 +1,13 @@
+<resources>
+    <!--TODO Change App Name-->
+    <string name="app_name">OLX Kotlin</string>
+
+    <string name="not_have_account_register">Not have Account? <b>Register</b></string>
+    <string name="already_have_account_login">Already have account? <b>Login</b></string>
+    <string name="didn_t_receive_otp_resend">Didn\'t Receive OTP? <b>Resend</b></string>
+    <string name="forgot_password_recover">Forgot Password? <b>Recover</b></string>
+    <string name="price_symbol">$</string>
+
+    <!--TODO Change Google MAP API Key-->
+    <string name="my_google_map_api_key">AIzaSyAeb-lpJjdmJ7hwEcJ6If2ydRT6hWiilJg</string>
+</resources>
